@@ -6,3 +6,6 @@ Una vez ingresado al sistema vemos todos los porductos (podemos comprar directam
 Esta es la vista para ver los elementos ingresados al carrito (tambien se puede eliminar)
 ![imagen](https://user-images.githubusercontent.com/100329989/204063387-e81b0ef3-7b74-4854-a2b7-efc3e72140ac.png)
 
+* Usa mySQL y el servidor gellfish
+* Se uso el IDE netbeans
+* Modelo Vista Control
