@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/src/java/Modelo/Cliente.java</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/src/java/Modelo/ClienteDAO.java</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/src/java/Modelo/Producto.java</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/web/Compras.jsp</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/web/Carrito.jsp</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/src/java/Controlador/Validar.java</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/src/java/Controlador/ControladorIMG.java</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/src/java/Config/Conexion.java</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/web/js/funciones.js</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/web/index.jsp</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/web/principal.jsp</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/src/java/Modelo/Carrito.java</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/src/java/Modelo/ProductoDAO.java</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/src/java/Controlador/Controlador.java</file>
+            <file>file:/J:/NetBeans/NetBeans-15/Proyectos/Carrito/web/NoAutorizado.jsp</file>
+        </group>
+    </open-files>
+</project-private>
